@@ -115,8 +115,8 @@ Liste de differents codes erreur trouvés au fil du temps avec leur description 
 
 ```
 Code: 505
-Problème: Les identifiants donnés à l'api sont erronés
-Solution: Il faut vérifier le nom d'utilisateur et/ou le mot de passe (cf Login)
+Problème: Les identifiants donnés à l'api sont erronés / IP Ban
+Solution: Il faut vérifier le nom d'utilisateur et/ou le mot de passe (cf Login) / Utilisé un serveur proxy
 
 Code: 520
 Problème: Le token est invalide
